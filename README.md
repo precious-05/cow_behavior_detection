@@ -1,6 +1,11 @@
 
 
 
+## Video demo
+
+
+
+[Watch the demo video](https://github.com/user-attachments/assets/6cc29590-6fde-44a6-a2e6-ce689a8eabc0)
 
 # Cow Behavior Detection
 
@@ -56,11 +61,6 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-## Video demo
-
-
-
-[Watch the demo video](https://github.com/user-attachments/assets/6cc29590-6fde-44a6-a2e6-ce689a8eabc0)
 
 
 
