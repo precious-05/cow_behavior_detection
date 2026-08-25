@@ -58,15 +58,11 @@ pip install -r requirements.txt
 
 ## Video demo
 
-Upload your demo video as a GitHub asset, then replace the placeholder link below.
+
 
 [Watch the demo video](https://github.com/user-attachments/assets/6cc29590-6fde-44a6-a2e6-ce689a8eabc0)
 
-If you want an embedded player in README, use this HTML snippet and update the URL:
 
-```html
-<video src="https://github.com/precious-05/cow_behavior_detection/assets/REPLACE_WITH_ASSET_ID/REPLACE_WITH_VIDEO_FILE_NAME" controls width="900"></video>
-```
 
 ## Notes
 
