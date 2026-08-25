@@ -9,6 +9,10 @@
 
 Cow Behavior Detection is a computer vision project for identifying and classifying cow activities from video data.
 
+## Video demo
+
+[Watch the demo video](https://github.com/user-attachments/assets/6cc29590-6fde-44a6-a2e6-ce689a8eabc0)
+
 ## Repository structure
 
 - `Cow_Behavior_Detection.ipynb`  
@@ -47,13 +51,13 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-## Video demo
-
-[Watch the demo video](https://github.com/user-attachments/assets/6cc29590-6fde-44a6-a2e6-ce689a8eabc0)
-
 ## Notes
 
 - Keep large datasets out of the repository and use external storage when possible.
 - Add `requirements.txt` and `LICENSE` if missing for better reproducibility.
+
+## Connect
+
+Find me on LinkedIn: [Alina Liaquat](https://www.linkedin.com/in/alina-liaquat-779347325)
 
 </div>
