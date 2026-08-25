@@ -1,0 +1,70 @@
+# Cow Behavior Detection
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+Cow Behavior Detection is a computer vision project for identifying and classifying cow activities from video data.
+
+## Repository structure
+
+- `Cow_Behavior_Detection`  
+  Main project file exported from Kaggle.
+
+## About the Kaggle upload
+
+The `Cow_Behavior_Detection` file currently appears as raw because it has no file extension in the repository.
+
+To make GitHub render it properly with syntax highlighting, rename it to the correct extension, for example:
+
+- `Cow_Behavior_Detection.ipynb` for a Jupyter notebook
+- `Cow_Behavior_Detection.py` for a Python script
+
+After renaming, GitHub will display it in a formatted view instead of only raw content.
+
+## Getting started
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/precious-05/cow_behavior_detection.git
+cd cow_behavior_detection
+```
+
+2. Create and activate a virtual environment:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+```
+
+On Windows PowerShell:
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+```
+
+3. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Video demo
+
+Upload your demo video as a GitHub asset, then replace the placeholder link below.
+
+[Watch the demo video](https://github.com/precious-05/cow_behavior_detection/assets/REPLACE_WITH_ASSET_ID/REPLACE_WITH_VIDEO_FILE_NAME)
+
+If you want an embedded player in README, use this HTML snippet and update the URL:
+
+```html
+<video src="https://github.com/precious-05/cow_behavior_detection/assets/REPLACE_WITH_ASSET_ID/REPLACE_WITH_VIDEO_FILE_NAME" controls width="900"></video>
+```
+
+## Notes
+
+- Keep large datasets out of the repository and use external storage when possible.
+- Add `requirements.txt` and `LICENSE` if missing for better reproducibility.
