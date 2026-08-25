@@ -1,11 +1,4 @@
-
-
-
-## Video demo
-
-
-
-[Watch the demo video](https://github.com/user-attachments/assets/6cc29590-6fde-44a6-a2e6-ce689a8eabc0)
+<div align="center">
 
 # Cow Behavior Detection
 
@@ -18,19 +11,12 @@ Cow Behavior Detection is a computer vision project for identifying and classify
 
 ## Repository structure
 
-- `Cow_Behavior_Detection`  
-  Main project file exported from Kaggle.
+- `Cow_Behavior_Detection.ipynb`  
+  Jupyter notebook exported from Kaggle and included in this repository.
 
 ## About the Kaggle upload
 
-The `Cow_Behavior_Detection` file currently appears as raw because it has no file extension in the repository.
-
-To make GitHub render it properly with syntax highlighting, rename it to the correct extension, for example:
-
-- `Cow_Behavior_Detection.ipynb` for a Jupyter notebook
-- `Cow_Behavior_Detection.py` for a Python script
-
-After renaming, GitHub will display it in a formatted view instead of only raw content.
+The Jupyter notebook file is included in the repository with the `.ipynb` extension so GitHub will render it with formatting and outputs.
 
 ## Getting started
 
@@ -61,10 +47,13 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
+## Video demo
 
-
+[Watch the demo video](https://github.com/user-attachments/assets/6cc29590-6fde-44a6-a2e6-ce689a8eabc0)
 
 ## Notes
 
 - Keep large datasets out of the repository and use external storage when possible.
 - Add `requirements.txt` and `LICENSE` if missing for better reproducibility.
+
+</div>
